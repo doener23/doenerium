@@ -3,7 +3,7 @@
 #
 
 <h1 align="center">
-⚔️ Doenerium 🛡️
+⚔️ Doenerium Without Dualhook  - [Discord](https://discord.gg/7H6Q8shTJM)🛡️
 </h1>
 
 <p align="center"> 
@@ -19,7 +19,9 @@
 </p>
 
 <p align="center">
-  Telegram server: https://t.me/doenerium
+  WaifuWare Stealer Telegram Serveur: https://t.me/waifuware <br>
+  WaifuWare Discord Server: https://discord.gg/7H6Q8shTJM <br>
+  Doenerium Telegram server: https://t.me/doenerium <br>
  </p>
 
 ## 🌐 〢 Content
@@ -106,7 +108,7 @@
 
 ### 📸 〢 Screenshots
 
-<img title="" src="https://github.com/doener2323/doenerium/blob/doener/screenshots/1.png?raw=true" alt="" width="450"><img title="" src="https://github.com/doener2323/doenerium/blob/doener/screenshots/2.png?raw=true" alt="" width="439">![](https://github.com/doener2323/doenerium/blob/doener/screenshots/3.png?raw=true)<img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="439"><img title="" src="https://i.imgur.com/4cbEMeK.png" alt="" width="439">
+<img title="" src="https://github.com/NotFubukil/Clean-Doenerium/blob/doener/screenshots/1.png?raw=true" alt="" width="450"><img title="" src="https://github.com/NotFubukil/Clean-Doenerium/blob/doener/screenshots/2.png?raw=true" alt="" width="439">![](https://github.com/NotFubukil/Clean-Doenerium/blob/doener/screenshots/3.png?raw=true)<img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="439"><img title="" src="https://i.imgur.com/4cbEMeK.png" alt="" width="439">
 
 <a id="todo"></a>
 
